@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayoutSingleItem"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/linear_layout_height"
+    android:layout_marginTop="24dp"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/linear_layout_vertical_padding">
+
+    <TextView
+        android:id="@+id/TextViewTitle"
+        style="@style/TextViewStyle"
+        android:layout_height="@dimen/list_item_title_height"
+        android:background="@color/medium_grey"
+        android:gravity="center"
+        android:textStyle="bold"
+        tools:text="Presidential debates format overhauled Trump Biden" />
+
+    <TextView
+        android:id="@+id/TextViewSectionName"
+        style="@style/TextViewStyle"
+        android:textAlignment="center"
+        tools:text="Section Name = US news" />
+
+    <TextView
+        android:id="@+id/TextViewDate"
+        style="@style/TextViewStyle"
+        android:textAlignment="center"
+        tools:text="Date: 19.10.2017" />
+
+
+    <TextView
+        android:id="@+id/TextViewAuthor"
+        style="@style/TextViewStyle"
+        android:textAlignment="center"
+        tools:text="Author: Luka Gabrielčič" />
+
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="linear_layout_vertical_margin">16dp</dimen>
+    <dimen name="linear_layout_horizontal_padding">48dp</dimen>
+    <dimen name="linear_layout_vertical_padding">8dp</dimen>
+    <dimen name="list_item_height">20dp</dimen>
+    <dimen name="list_item_title_height">45dp</dimen>
+    <dimen name="text_view_vertical_margin">4dp</dimen>
+    <dimen name="text_view_horizontal_margin">4dp</dimen>
+    <dimen name="text_view_vertical_padding">4dp</dimen>
+    <dimen name="text_view_horizontal_padding">4dp</dimen>
+    <dimen name="linear_layout_height">170dp</dimen>
+    <dimen name="listview_padding">8dp</dimen>
+
+
+</resources>
